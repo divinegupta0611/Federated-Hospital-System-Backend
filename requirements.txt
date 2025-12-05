@@ -10,3 +10,4 @@ numpy
 pandas
 tensorflow
 torch
+scikit-learn
